@@ -41,9 +41,9 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nirmal-sanjel"><img src="https://img.shields.io/badge/LinkedIn-NirmalSanjel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/Nirmal_Sanjel"><img src="https://img.shields.io/badge/Twitter-@Nirmal_Sanjel-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="mailto:nirmal.sanjel@example.com"><img src="https://img.shields.io/badge/Email-nirmal.sanjel@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nirmalsanjel"><img src="https://img.shields.io/badge/LinkedIn-NirmalSanjel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/nirmalsarts"><img src="https://img.shields.io/badge/Twitter-@Nirmal_Sanjel-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="mailto:hackingwithnirmal@gmail.com"><img src="https://img.shields.io/badge/Email-hackingwithnirmal@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 ---
