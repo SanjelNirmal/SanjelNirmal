@@ -10,7 +10,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/SanjelNirmal?label=Follow&style=social">
   </a>
   <a href="https://twitter.com/nirmalsarts">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Nirmal_Sanjel?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Nirmal Sanjel?style=social">
   </a>
 </div>
 
