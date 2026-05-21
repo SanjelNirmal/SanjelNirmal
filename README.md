@@ -32,10 +32,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjelNirmal&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjelNirmal&layout=compact&theme=radical" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=SanjelNirmal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanjelNirmal&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjelNirmal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=tfalse&layout=compact)
+
 
 ---
 
