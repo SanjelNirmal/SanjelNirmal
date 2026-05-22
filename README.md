@@ -1,67 +1,106 @@
-<h1 align="center">🌸 Nirmal Sanjel 🌸</h1>
+<h1 align="center">Nirmal Sanjel</h1>
 <p align="center">
-  <i>BCA Student | Devoted Artist | Web & Tech Explorer</i>
+  BCA Student • Frontend Developer • UI/UX Explorer
+</p>
+
+<p align="center">
+  Passionate about building modern web experiences with a blend of clean design, creativity, and meaningful digital experiences.
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjelNirmal&color=brightgreen" alt="Profile Views" />
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=SanjelNirmal&color=blue" alt="Profile Views" />
+  
   <a href="https://github.com/SanjelNirmal">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SanjelNirmal?label=Follow&style=social">
+    <img src="https://img.shields.io/github/followers/SanjelNirmal?label=Followers&style=social" alt="GitHub Followers">
   </a>
+
   <a href="https://twitter.com/nirmalsarts">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Nirmal Sanjel?style=social">
+    <img src="https://img.shields.io/twitter/follow/nirmalsarts?style=social" alt="Twitter Follow">
   </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
-- Devoted artist inspired by **Radha-Krishna leelas** 🎨💖
-- Passionate about **Web Development**: HTML, CSS, JavaScript 🌐
-- Learning and experimenting with **GitHub projects, dynamic websites, and UI designs**
-- Sharing creativity through code and bhakti-infused art 🙏
+# About Me
+
+I'm a Bachelor in Computer Application (BCA) student from Nepal with a strong interest in:
+
+- Frontend Web Development
+- Interactive UI/UX Design
+- Creative and Modern Websites
+- Open Source & GitHub Projects
+- Art-inspired Digital Experiences
+
+I enjoy combining technology with creativity to build projects that are both functional and visually engaging.
 
 ---
 
-## 🛠 Skills
-- **Languages & Tools:** HTML, CSS, JavaScript, C, Git, GitHub, Tally
-- **Web Development:** Responsive Design, Interactive UI, Project Deployment
-- **Artistic Touch:** Digital painting & devotional illustrations
+# Tech Stack
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- C
+
+### Tools & Technologies
+- Git & GitHub
+- Responsive Web Design
+- UI/UX Design
+- Project Deployment
+- Tally
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SanjelNirmal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanjelNirmal&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjelNirmal&theme=cobalt&hide_border=false&include_all_commits=true&count_private=tfalse&layout=compact)
+# Current Focus
 
+- Advanced JavaScript
+- Frontend Frameworks
+- Dynamic Web Applications
+- Portfolio & Personal Branding
+- Scalable UI Systems
 
 ---
 
-## 🔗 Connect with Me
+# GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SanjelNirmal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanjelNirmal&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjelNirmal&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nirmalsanjel"><img src="https://img.shields.io/badge/LinkedIn-NirmalSanjel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/nirmalsarts"><img src="https://img.shields.io/badge/Twitter-@Nirmal_Sanjel-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="mailto:hackingwithnirmal@gmail.com"><img src="https://img.shields.io/badge/Email-hackingwithnirmal@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/nirmalsanjel">
+    <img src="https://img.shields.io/badge/LinkedIn-NirmalSanjel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+
+  <a href="https://twitter.com/nirmalsarts">
+    <img src="https://img.shields.io/badge/Twitter-@nirmalsarts-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+
+  <a href="mailto:hackingwithnirmal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **JavaScript & Frontend Frameworks**  
-- **Dynamic websites** with backend integration  
-- **Art-inspired web design** for e-commerce
+# Goals
 
----
-
-## 🎯 Goals
-- Build a **personal portfolio website** blending art & tech  
-- Create **online tools** and devotional applications  
-- Contribute more to **open-source projects**
+- Build impactful digital products
+- Create immersive portfolio experiences
+- Contribute to open-source communities
+- Grow as a frontend and creative developer
 
 ---
 
 <p align="center">
-  <i>“May all my coding and creations be under the loving guidance of Radha Rani and Krishna Kanaya” 🌸</i>
+  <i>
+    “Building digital experiences with creativity, discipline, and purpose.”
+  </i>
 </p>
