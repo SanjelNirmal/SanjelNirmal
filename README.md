@@ -10,7 +10,7 @@
 <div align="center">
 <a href="https://nirmalsanjel.com.np">Click here for Portfolio Website!</a>
 </div>
-
+</br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SanjelNirmal&color=blue" alt="Profile Views" />
   
