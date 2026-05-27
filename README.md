@@ -70,10 +70,6 @@ I enjoy combining technology with creativity to build projects that are both fun
 
 ![](https://github-readme-stats.vercel.app/api?username=SanjelNirmal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanjelNirmal&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjelNirmal&theme=tokyonight&hide_border=true&layout=compact)
-
 ---
 
 # Connect With Me
