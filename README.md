@@ -1,106 +1,81 @@
-<h1 align="center">Nirmal Sanjel</h1>
-<p align="center">
-  BCA Student • Frontend Developer • UI/UX Explorer
-</p>
 
-<p align="center">
-  Passionate about building modern web experiences with a blend of clean design, creativity, and meaningful digital experiences.
-</p>
 
-<div align="center">
-<a href="https://nirmalsanjel.com.np">Click here for Portfolio Website!</a>
-</div>
-</br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjelNirmal&color=blue" alt="Profile Views" />
+
+### Hi there 👋 I'm Nirmal Sanjel
+
+**BCA Student • Full-Stack Developer in Training • UI/UX Enthusiast**
+<img src="assets/BCAabout.png" alt="Nirmal Sanjel Banner" width="100%"> 
+I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about building modern digital experiences through design and technology. Currently focused on mastering PHP, Laravel, React, and creating scalable web applications with clean user experiences.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **BCA Student** at Jana Bhawana Campus (TU)
+- 💻 **Learning** Full-Stack Development
+- 🎨 **Exploring** UI/UX Design & Digital Product Design
+- 🚀 **Building** personal and academic projects
+- 🤖 **Interested in** Web Technologies, AI, and Open Source
+- 🌱 **Currently mastering** PHP, Laravel, and React
+
+---
+
+### 🛠️ Languages and Tools
+<img src="assets/modern.png" alt="Nirmal Sanjel Learn Banner" width="100%"> 
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
   
-  <a href="https://github.com/SanjelNirmal">
-    <img src="https://img.shields.io/github/followers/SanjelNirmal?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+  <!-- Backend & Database -->
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-  <a href="https://twitter.com/nirmalsarts">
-    <img src="https://img.shields.io/twitter/follow/nirmalsarts?style=social" alt="Twitter Follow">
-  </a>
-</div>
-
----
-
-# About Me
-
-I'm a Bachelor in Computer Application (BCA) student from Nepal with a strong interest in:
-
-- Frontend Web Development
-- Interactive UI/UX Design
-- Creative and Modern Websites
-- Open Source & GitHub Projects
-- Art-inspired Digital Experiences
-
-I enjoy combining technology with creativity to build projects that are both functional and visually engaging.
-
----
-
-# Tech Stack
-
-### Languages
-- HTML
-- CSS
-- JavaScript
-- C
-
-### Tools & Technologies
-- Git & GitHub
-- Responsive Web Design
-- UI/UX Design
-- Project Deployment
-- Tally
-
----
-
-# Current Focus
-
-- Advanced JavaScript
-- Frontend Frameworks
-- Dynamic Web Applications
-- Portfolio & Personal Branding
-- Scalable UI Systems
-
----
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SanjelNirmal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
----
-
-# Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nirmalsanjel">
-    <img src="https://img.shields.io/badge/LinkedIn-NirmalSanjel-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-
-  <a href="https://twitter.com/nirmalsarts">
-    <img src="https://img.shields.io/badge/Twitter-@nirmalsarts-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-
-  <a href="mailto:hackingwithnirmal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  <!-- Design & Tools -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
 ---
 
-# Goals
+### 🎯 Current Focus & Learning Path
 
-- Build impactful digital products
-- Create immersive portfolio experiences
-- Contribute to open-source communities
-- Grow as a frontend and creative developer
+*   **Development:** Advanced React, Laravel Ecosystem, REST APIs, and scalable backend development.
+*   **Design:** Improving UI/UX design skills, specifically focusing on modern aesthetics like glassmorphism and clean digital product design.
+*   **Engineering:** Strengthening problem-solving skills, database design, and core software engineering practices.
 
 ---
 
+### 📊 GitHub Statistics
+
 <p align="center">
-  <i>
-    “Building digital experiences with creativity, discipline, and purpose.”
-  </i>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjelNirmal&show_icons=true&theme=tokyonight" alt="Nirmal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjelNirmal&theme=tokyonight" alt="Nirmal's GitHub Streak" />
+</p>
+
+
+
+---
+
+**If you find my projects interesting, consider leaving a ⭐ to show some ❤️!**
+
+<p align="center">
+  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"></a>
 </p>
