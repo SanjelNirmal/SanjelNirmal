@@ -5,7 +5,7 @@
 
 **BCA Student • Full-Stack Developer in Training • UI/UX Enthusiast**
 <br>
-<img src="assets/BCAabout.png" alt="Nirmal Sanjel Banner" width="100%"> <br>
+<img src="BCAabout.png" alt="Nirmal Sanjel Banner" width="100%"> <br>
 I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about building modern digital experiences through design and technology. Currently focused on mastering PHP, Laravel, React, and creating scalable web applications with clean user experiences.
 
 ---
@@ -29,7 +29,6 @@ I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -50,13 +49,7 @@ I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjelNirmal&show_icons=true&theme=tokyonight" alt="Nirmal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjelNirmal&theme=tokyonight" alt="Nirmal's GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SanjelNirmal&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 
 
