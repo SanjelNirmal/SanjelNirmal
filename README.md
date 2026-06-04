@@ -49,15 +49,14 @@ I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about
 
 ### 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanjelNirmal&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SanjelNirmal&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
 
 ---
 
-**2026 Nirmal Sanjel❤️!**
+
 
 <p align="center">
+  <strong>**2026 Nirmal Sanjel❤️!**</strong>
   <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
 </p>
 
