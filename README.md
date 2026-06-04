@@ -1,15 +1,14 @@
 
 
 
-### Hi there 👋 I'm Nirmal Sanjel
+### Hi Human! I'm Nirmal Sanjel
 
-**BCA Student • Full-Stack Developer in Training • UI/UX Enthusiast**
+**IT Student • Full-Stack Developer in Training • UI/UX Enthusiast**
 <br>
 <img src="BCAabout.png" alt="Nirmal Sanjel Banner" width="100%"> <br>
-I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about building modern digital experiences through design and technology. Currently focused on mastering PHP, Laravel, React, and creating scalable web applications with clean user experiences.
+I'm Nirmal Sanjel who is a Bachelor in Computer Application (BCA) student from Nepal passionate about building modern digital experiences through design and technology. Currently focused on mastering PHP, Laravel, React, and creating scalable web applications with clean user experiences.
 
 ---
-
 ### 👨‍💻 About Me
 
 - 🎓 **BCA Student** at Jana Bhawana Campus (TU)
@@ -18,9 +17,7 @@ I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about
 - 🚀 **Building** personal and academic projects
 - 🤖 **Interested in** Web Technologies, AI, and Open Source
 - 🌱 **Currently mastering** PHP, Laravel, and React
-
 ---
-
 ### 🛠️ Languages and Tools
 <img src="modern.png" alt="Nirmal Sanjel Learn Banner" width="100%"> 
 <p align="left">
@@ -45,18 +42,9 @@ I'm a Bachelor in Computer Application (BCA) student from Nepal passionate about
 *   **Design:** Improving UI/UX design skills, specifically focusing on modern aesthetics like glassmorphism and clean digital product design.
 *   **Engineering:** Strengthening problem-solving skills, database design, and core software engineering practices.
 
----
-
-### 📊 GitHub Statistics
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SanjelNirmal&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
-
----
-
-
 
 <p align="center">
-  <strong>**2026 Nirmal Sanjel❤️!**</strong>
+  <strong>**2026 Nirmal Sanjel❤️!**</strong><br>
   <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
 </p>
 
