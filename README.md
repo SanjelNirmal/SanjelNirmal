@@ -21,7 +21,7 @@
 
 ## About Me
 
-<img align="right" width="360" src="HEIF Image.heic" alt="Nirmal Sanjel BCA Banner"/>
+<img align="right" width="360" src="IMG_2868 2.jpg" alt="Nirmal Sanjel BCA Banner"/>
 
 I am **Nirmal Sanjel**, a Bachelor of Computer Application student from Nepal with a strong interest in web development, software engineering, and digital product design.
 
